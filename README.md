@@ -8,7 +8,7 @@ Este projeto foi desenvolvido há um tempo no curso de Javascript e Typescript d
 
 ### Features
 
-- [x] Cadastro de usuário.
+- [x] Cadastro de Usuário.
 - [x] Cadastro Contato.
 - [x] Editar Contato.
 - [x] Atualizar Contato.
