@@ -1,6 +1,6 @@
 ## _Projeto Agenda_
 
-> Status: Finished
+> Status: Finalizado
 
 ## Sobre o projeto
 
